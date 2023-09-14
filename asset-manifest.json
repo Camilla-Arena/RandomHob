@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//Camilla-Arena.github.io/react-gh-pages/static/css/main.a83f58bf.css",
+    "main.js": "/https//Camilla-Arena.github.io/react-gh-pages/static/js/main.bb52183b.js",
+    "static/js/787.71ca9784.chunk.js": "/https//Camilla-Arena.github.io/react-gh-pages/static/js/787.71ca9784.chunk.js",
+    "index.html": "/https//Camilla-Arena.github.io/react-gh-pages/index.html",
+    "main.a83f58bf.css.map": "/https//Camilla-Arena.github.io/react-gh-pages/static/css/main.a83f58bf.css.map",
+    "main.bb52183b.js.map": "/https//Camilla-Arena.github.io/react-gh-pages/static/js/main.bb52183b.js.map",
+    "787.71ca9784.chunk.js.map": "/https//Camilla-Arena.github.io/react-gh-pages/static/js/787.71ca9784.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83f58bf.css",
+    "static/js/main.bb52183b.js"
+  ]
+}
